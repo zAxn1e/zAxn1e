@@ -1,60 +1,43 @@
-<!--
-**zAxn1e/zAxn1e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hello, I'm zAxn1e 👋
 
-### Full Stack Developer | Game Developer
+### 💻 Developer & Game Enthusiast
 
 ---
 
 ## About Me
 
-I am a Full Stack Developer and Game Developer with 3 years of experience in developing applications and open-source game projects. I am passionate about creating immersive and interactive experiences for users through engaging software.
+Hi! I'm a developer who enjoys building small things that slowly grow into something bigger.  
+I work across both **web** and **game** projects, but I don't really like to label myself as “full-stack” — I’m still learning, experimenting, and figuring things out as I go.
 
-Being a versatile developer, I have worked on various web and game development projects using different technologies and programming languages. My skill set includes:
-
-- **Programming Languages**: Python, JavaScript, C#, Java, Lua
-- **Web Development**: HTML, CSS, React, Node.js
-- **Game Development**: Unity, Roblox
-- **Database Management**: MySQL, PostgreSQL
-- **Version Control**: Git
-- **Tools**: VS Code, Unity, Roblox Studio
-
-I enjoy working on challenging projects that push the boundaries of creativity and technology. With a strong foundation in both back-end and front-end development, I strive to create seamless and intuitive user experiences.
+I’m interested in creating interactive experiences and tools that are fun or genuinely useful, even if they start simple.
 
 ---
 
-## My Activity and Performance on GitHub
+## What I usually work with
 
-### GitHub Stats
+- **Languages**: Python, JavaScript, C#, Java, Lua  
+- **Web**: HTML, CSS, React, Node.js  
+- **Game Development**: Unity, Roblox Studio  
+- **Databases**: MySQL, PostgreSQL  
+- **Tools**: VS Code, Git, Unity
+
+I don’t think of myself as an expert — just someone who enjoys building things, breaking things, and learning from both.
+
+---
+
+## GitHub Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zAxn1e)
 
-As a relatively new GitHub user, my GitHub activity and performance are currently limited. However, I am eager to expand my presence on the platform and contribute to meaningful projects in the open-source community.
-
-### Top Languages
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zAxn1e)
-
-## Contact Information
-
-- 📫 Email me: [zy.axn1e@hotmail.com](mailto:zy.axn1e@hotmail.com)
 
 ---
 
-Thank you for visiting my GitHub profile! If you have any inquiries or would like to collaborate on a project, please feel free to reach out. I am always looking forward to exciting opportunities that allow me to contribute and grow as a developer.
-Keep coding and creating!
+## Contact
 
-[zAxn1e]("https://github.com/zAxn1e")
+📫 Email: **zy.axn1e@hotmail.com**
+
+---
+
+Thanks for stopping by!  
+I’m always happy to learn, share ideas, or collaborate on something interesting.  
