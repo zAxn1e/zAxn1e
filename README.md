@@ -27,9 +27,9 @@ I don’t think of myself as an expert — just someone who enjoys building thin
 
 ## GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=zAxn1e)
+![Github Stats](https://github-readme-stats-fast.vercel.app/api?username=zAxn1e&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zAxn1e)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zAxn1e&layout=compact&theme=tokyonight)
 
 ---
 
